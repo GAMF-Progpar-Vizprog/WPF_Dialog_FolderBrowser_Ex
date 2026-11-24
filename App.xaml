@@ -1,7 +1,7 @@
-﻿<Application x:Class="PictureBrowser.App"
+﻿<Application x:Class="WPF_Dialog_FolderBrowser_Ex.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:PictureBrowser"
+             xmlns:local="clr-namespace:WPF_Dialog_FolderBrowser_Ex"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

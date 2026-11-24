@@ -7,7 +7,7 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 
-namespace PictureBrowser
+namespace WPF_Dialog_FolderBrowser_Ex
 {
 	public partial class MainWindow : Window
 	{

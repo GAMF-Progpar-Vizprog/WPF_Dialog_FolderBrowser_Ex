@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace PictureBrowser
+namespace WPF_Dialog_FolderBrowser_Ex
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
